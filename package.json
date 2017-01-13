@@ -1,0 +1,16 @@
+{
+  "name": "funapp",
+  "version": "1.0.0",
+  "description": "(index.js)",
+  "main": "async-call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node http-server.js"
+  },
+  "author": "mrunal",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "uglify": "^0.1.5"
+  }
+}
